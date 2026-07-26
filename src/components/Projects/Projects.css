@@ -1,0 +1,12 @@
+.project-button:hover{
+    background-color: #1B1A1A;
+    color: white;
+  
+    
+}
+.project-button{
+    padding: 12px;
+      border-radius: 15px;
+      width: 133px;
+      text-align: center;
+}

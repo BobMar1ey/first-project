@@ -1,0 +1,8 @@
+.firm__bg {
+    background-image: url(../../image/Firm/bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #ece7e4;
+    width: 100%;
+}

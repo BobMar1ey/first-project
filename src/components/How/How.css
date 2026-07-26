@@ -1,0 +1,20 @@
+    .how__bg {
+    background-image: url(../../image/How/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #ece7e4;
+    width: 100%
+
+    }
+    .how__bg-two{
+            background-image: url(../../image/How/bgTwo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #ece7e4;
+    width: 100%
+    }
+    .How{
+
+    }

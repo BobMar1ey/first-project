@@ -1,0 +1,21 @@
+    .hero_img {
+        background-image: url(../../image/Hero/hero.png);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: #ece7e4;
+        width: 100%;
+      
+
+        max-height: 720px;
+        max-width: 719px;
+        min-width: 400px;
+
+    }
+    section {
+        padding: 0;
+    }
+
+.hero_text{
+    margin-bottom: 55px;
+}

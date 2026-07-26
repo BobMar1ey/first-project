@@ -1,0 +1,72 @@
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.black-italic.woff2);
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.black.woff2);
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.bold-italic.woff2);
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.bold.woff2);
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.extrabold-italic.woff2);
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.extrabold.woff2);
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.italic.woff2);
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.medium-italic.woff2);
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.medium.woff2);
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.regular.woff2);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.semibold-italic.woff2);
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./poppins.semibold.woff2);
+    font-weight: 600;
+    font-style: normal;
+}
