@@ -1,5 +1,6 @@
 import React from "react";
 import "./Hero.css";
+import HeroImg from '../../image/Hero/hero.png'
 
 export default function Hero() {
   return (
@@ -24,7 +25,7 @@ export default function Hero() {
             <a className="pl-[15px]" href="#">Read more</a>
           </div>
         </div>
-        <div className="hero_img bg-[#000] min-h-[25rem] lg:min-h-[720px] bg-[url('../../image/Hero/hero.png')] bg-cover bg-center bg-no-repeat"></div>
+        <div className="hero_img bg-[#000] min-h-[25rem] lg:min-h-[720px] bg-[HeroImg] bg-cover bg-center bg-no-repeat"></div>
       </div>
     </section>
   );

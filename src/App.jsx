@@ -1,7 +1,7 @@
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import "./App.css";
-import Footer from "./components/footer/footer";
+import Footer from "./components/footer/Footer";
 import Firm from "./components/Firm/Firm";
 import How from "./components/How/How";
 import Projects from "./components/Projects/Projects";
