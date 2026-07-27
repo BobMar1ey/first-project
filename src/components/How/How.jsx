@@ -3,7 +3,7 @@ import one from "../../image/How/1.png";
 import two from "../../image/How/2.png";
 import third from "../../image/How/3.png";
 
-import logoOne from "../../image/How/LogoOne.png";
+// import logoOne from "../../image/How/LogoOne.png";
 import logoTwo from "../../image/How/LogoTwo.png";
 import logoThree from "../../image/How/LogoThree.png";
 import logoFour from "../../image/How/LogoFour.png";
@@ -72,7 +72,7 @@ export default function How() {
         <div className="flex flex-wrap justify-center items-center w-full">
           <div className="flex max-h-[250px] h-full  max-w-[400px] w-full flex-wrap justify-between gap-[20px]">
             <a className="flex items-center justify-center" href="">
-              <img className="w-[128px]" src={logoOne} alt="" />
+              <img className="w-[128px]" src={logoTwo} alt="" />
             </a>
             <a className="flex items-center justify-center" href="">
               <img className="w-[128px]" src={logoTwo} alt="" />
