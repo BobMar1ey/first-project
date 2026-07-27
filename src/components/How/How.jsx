@@ -3,10 +3,10 @@ import one from "../../image/How/1.png";
 import two from "../../image/How/2.png";
 import third from "../../image/How/3.png";
 
-import logoOne from "../../image/How/logoOne.png";
-import logoTwo from "../../image/How/logoTwo.png";
-import logoThree from "../../image/How/logothree.png";
-import logoFour from "../../image/How/logoFour.png";
+import logoOne from "../../image/How/LogoOne.png";
+import logoTwo from "../../image/How/LogoTwo.png";
+import logoThree from "../../image/How/Logothree.png";
+import logoFour from "../../image/How/LogoFour.png";
 
 import "./How.css";
 export default function How() {
