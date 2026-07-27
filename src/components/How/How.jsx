@@ -2,7 +2,7 @@ import React from "react";
 import one from "../../image/How/1.png";
 import two from "../../image/How/2.png";
 import third from "../../image/How/3.png";
-import logoOne from "../../image/How/LogoOne.png";
+import logoOne from "src/components/image/How/LogoOne.png";
 // import logoOne from "../../image/How/LogoOne.png";
 import logoTwo from "../../image/How/LogoTwo.png";
 import logoThree from "../../image/How/LogoThree.png";
