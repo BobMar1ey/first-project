@@ -1,10 +1,10 @@
 import React from 'react'
 import './Footer.css'
 
-import facebook from '../../image/footer/facebook.svg';
-import instagram from '../../image/footer/instagram.svg'
-import twitter from '../../image/footer/twitter.svg'
-import logo from '../../image/footer/logo.png'
+import facebook from '../../image/Footer/facebook.svg';
+import instagram from '../../image/Footer/instagram.svg'
+import twitter from '../../image/Footer/twitter.svg'
+import logo from '../../image/Footer/logo.png'
 export default function Footer() {
   return (
     <footer className='flex justify-between pb-[60px] pt-[60px] pl-[20px] pr-[20px] md:pl-[136px] md:pr-[136px] items-end'>
