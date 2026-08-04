@@ -20,7 +20,7 @@ export default function How() {
           <h2 className="text-[39px] leading-[42px]">How we do what we do.</h2>
         </div>
         <div className=" flex justify-center md:justify-between flex-wrap pl-[20px] pr-[20px] md:pl-[185px] md:pr-[165px]">
-          <div className="pb-[100px] max-w-[294px] flex flex-col justify-center items-center">
+          <div data-aos="fade-up" data-aos-delay="100" className="pb-[100px] max-w-[294px] flex flex-col justify-center items-center">
             <img className="w-[117px] mb-[15px]" src={one} alt="" />
             <h4 className="text-[18px] mb-[10px]">Sketching</h4>
             <p>
@@ -29,7 +29,7 @@ export default function How() {
               leo iaculis.
             </p>
           </div>
-          <div className="pb-[100px] max-w-[294px] flex flex-col justify-start items-center">
+          <div data-aos="fade-up" data-aos-delay="200" className="pb-[100px] max-w-[294px] flex flex-col justify-start items-center">
             <img className=" w-[117px] mb-[15px]" src={two} alt="" />
             <h4 className="text-[18px] mb-[10px]">Finalizing</h4>
             <p>
@@ -37,7 +37,7 @@ export default function How() {
               iaculis luctus sapien ac arcu tempor, vitae.
             </p>
           </div>
-          <div className="pb-[100px] max-w-[294px] flex flex-col justify-center items-center">
+          <div data-aos="fade-up" data-aos-delay="300" className="pb-[100px] max-w-[294px] flex flex-col justify-center items-center">
             <img className="w-[117px] mb-[15px]" src={third} alt="" />
             <h4 className="text-[18px] mb-[10px]"> Building</h4>
             <p>
@@ -48,7 +48,7 @@ export default function How() {
         </div>
       </div>
       <div className="how__bg flex items-center justify-end max-h-[600px] h-screen pr-[65px]">
-        <div className="max-w-[285px] text-start">
+        <div data-aos="fade-right" className="max-w-[285px] text-start">
           <h2 className="text-[#403E3B] uppercase">The marble staircase</h2>
           <p className="leading-[24px] text-[18px]  text-[#645C55]">
             Lorem ipsum dolor sit amet, dolor sit amet dolor sit amet.
@@ -56,14 +56,14 @@ export default function How() {
         </div>
       </div>
       <div className="bg-[#403E3B] flex justify-between pt-[65px] pb-[60px] pl-[130px] pr-[130px] max-h-[410px] h-screen">
-        <div className="text-start max-w-[461px] pt-[70px] pr-[10px]">
-          <h3 className="uppercase text-[#ECE7E4] mb-[] leading-[12px]">
+        <div  className="text-start max-w-[461px] pt-[70px] pr-[10px]">
+          <h3 data-aos="fade-right" className="uppercase text-[#ECE7E4] mb-[] leading-[12px]">
             prior clients
           </h3>
-          <h2 className="text-[#FFFFFF] text-[32px] leading-[32px] mb-[8px]">
+          <h2 data-aos="fade-right"   data-aos-delay="300" className="text-[#FFFFFF] text-[32px] leading-[32px] mb-[8px]">
             Happy customers.
           </h2>
-          <p className=" leading-[24px] text-[#ECE7E4]">
+          <p data-aos="fade-right"   data-aos-delay="600" className=" leading-[24px] text-[#ECE7E4]">
             Morbi neque ex, condimentum dapibus congue et, vulputate ut ligula.
             Vestibulum sit amet urna turpis. Mauris euismod elit et nisi
             ultrices, ut faucibus orci tincidunt.
@@ -71,23 +71,23 @@ export default function How() {
         </div>
         <div className="flex flex-wrap justify-center items-center w-full">
           <div className="flex max-h-[250px] h-full  max-w-[400px] w-full flex-wrap justify-between gap-[20px]">
-            <a className="flex items-center justify-center" href="">
+            <a  data-aos="fade-up-right" className="flex items-center justify-center" href="">
               <img className="w-[128px]" src={logoTwo} alt="" />
             </a>
-            <a className="flex items-center justify-center" href="">
+            <a  data-aos="fade-up-right" className="flex items-center justify-center" href="">
               <img className="w-[128px]" src={logoTwo} alt="" />
             </a>
-            <a className="flex items-center justify-center" href="">
+            <a  data-aos="fade-up-left" className="flex items-center justify-center" href="">
               <img className="w-[128px]" src={logoThree} alt="" />
             </a>
-            <a className="flex items-center justify-center" href="">
+            <a  data-aos="fade-up-left" className="flex items-center justify-center" href="">
               <img className="w-[128px]" src={logoFour} alt="" />
             </a>
           </div>
         </div>
       </div>
       <div className="  how__bg-two flex items-center justify-start max-h-[600px] h-screen pl-[65px]">
-        <div className="max-w-[285px] text-start">
+        <div  data-aos="fade-right" className="max-w-[285px] text-start">
           <h2 className="text-[#403E3B] uppercase">The marble staircase</h2>
           <p className="leading-[24px] text-[18px]  text-[#645C55]">
             Lorem ipsum dolor sit amet, dolor sit amet dolor sit amet.

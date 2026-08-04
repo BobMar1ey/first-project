@@ -19,9 +19,9 @@ export default function Header() {
       <div className="flex justify-between h-[90px] items-center">
         <div>
        
-          <img className=" w-[220px]" src={Logo} alt="" />
+          <img className=" w-[13rem]" src={Logo} alt="" />
         </div>
-        <nav className={`max-w-[620px] w-full flex ${burger ? "active" : ""} navbar`}>
+        <nav className={`max-w-[630px] w-full flex ${burger ? "active" : ""} navbar`}>
           <ul className="text-[17px] w-full flex justify-between  gap-[3px] tracking-wider font-normal text-[#1B1A1A] items-center">
             <li>
               <a href="#">Projects</a>
@@ -33,7 +33,7 @@ export default function Header() {
               <a href="#">News</a>
             </li>
             <li>
-              <a href="#">Team</a>
+              <a href="#team">Team</a>
             </li>
             <li>
               <a href="#">Contact</a>

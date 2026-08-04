@@ -4,11 +4,11 @@ import './Firm.css'
 export default function Firm() {
   return (
     <section>
-      <div className="flex justify-center items-center max-h-[782px] h-screen">
-        <div className="flex max-w-[768px] w-full justify-center md:justify-between pb-[155px] md:flex-row flex-col md:items-start items-center
+      <div className="flex justify-center items-center">
+        <div className="flex max-w-[768px] w-full justify-center md:justify-between pt-[100px] pb-[120px] md:flex-row flex-col md:items-start items-center
         ">
           <h2 className="pl-[] text-[32px] leading-[48px] mb-[20px] pl-[10px]">Our firm</h2>
-          <div className="text-[#403E3B] max-w-[500px] flex flex-col gap-[10px] text-start leading-[22px] pr-[20px] md:pl-[0px] pl-[20px] text-[16px]">
+          <div className="text-[#403E3B] max-w-[500px] flex flex-col gap-[10px] text-start leading-[30px] pr-[20px] md:pl-[0px] pl-[20px] text-[16px]">
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in eros elementum tristique. Duis cursus,
@@ -40,8 +40,8 @@ export default function Firm() {
           </div>
         </div>
       </div>
-      <div className=" firm__bg flex items-center justify-end max-h-[600px] h-screen  pr-[65px]">
-         <div className="max-w-[285px] text-start">
+      <div  className=" firm__bg flex items-center justify-end max-h-[600px] h-screen  pr-[65px]">
+         <div data-aos="fade-right" className="max-w-[285px] text-start">
             <h2 className="text-[#403E3B]">Reeding House</h2>
             <p className="text-[#645C55]">Lorem ipsum dolor sit amet, dolor sit amet dolor sit amet.</p>
          </div>
